@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LuisSucuc
-- 👀 I’m interested in Python, JavaScript and Frontend Development.
-- 🌱 I’m currently learning Django, React JS and English Language.
+- 👀 I’m interested in Python and JavaScript
 - 💞️ I’m currently collaborating at Shock.fm
 - 📫 me@luissucuc.com
 
